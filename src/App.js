@@ -13,8 +13,7 @@ function App() {
       <Button variant="contained" color="secondary">
       Hello World
       </Button>
-      <Fab color="secondary" aria-label="edit">
-      </Fab>
+      <Button variant = "contained" color = "primary"> Click me </Button>
       </div>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
