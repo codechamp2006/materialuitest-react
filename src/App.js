@@ -10,9 +10,7 @@ function App() {
       <header className="App-header">
         <div className="Material-ui">
       <Checkbox variant="contained" color="secondary"></Checkbox>
-      <Button variant="contained" color="secondary">
-      Hello World
-      </Button>
+      <Button variant="contained" color="secondary"> Hello World </Button>
       <Button variant = "contained" color = "primary"> Click me </Button>
       </div>
         <img src={logo} className="App-logo" alt="logo" />
