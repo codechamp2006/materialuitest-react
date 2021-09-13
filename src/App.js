@@ -30,4 +30,12 @@ function App() {
   );
 }
 
+function doctorize(name){
+  name = `Dr. ${name}`;
+  return name;
+}
+
+function yell(){
+}
+
 export default App;
