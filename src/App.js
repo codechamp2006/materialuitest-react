@@ -31,11 +31,11 @@ function App() {
 }
 
 function doctorize(name){
-  name = `Dr. ${name}`;
-  return name;
+  return `Dr. ${name}`;
 }
 
-function yell(){
+function yell(name){
+  return `Hey, ${name}`;
 }
 
 export default App;
